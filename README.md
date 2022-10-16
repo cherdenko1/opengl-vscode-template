@@ -2,5 +2,4 @@
 
 Simple OpenGL Window template for VSCode
 
-All binaries were already setup.
-Works for VSCODE
+Intended for C++
